@@ -166,8 +166,9 @@ ul li {
   text-align: center;
   letter-spacing: 0.02em;
   text-transform: capitalize;
-  color: var (--Third-title);
+  color: var(--Third-title);
 }
+
 
 .team-list {
   background-color: #ffffff;
